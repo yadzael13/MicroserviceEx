@@ -24,5 +24,5 @@ public class HuCatMoneda {
     private String monedaCorriente;
     private String STATUS;
 
-
+    
 }
